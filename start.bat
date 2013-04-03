@@ -1,2 +1,2 @@
 @echo off
-src\main.py
+src\main.pyw
