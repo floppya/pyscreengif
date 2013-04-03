@@ -21,5 +21,8 @@ format of your choosing
 
 License
 =======
-MIT
+MIT 
+
+Exceptions:
+* images2gif.py: BSD - The attributions can be found in that file.
 
